@@ -1,3 +1,7 @@
+== 0.3.0
+
+* Moved invoicing_generator gem into a separate git repo
+
 == 0.2.1
 
 * 2 minor enhancements:
